@@ -18,3 +18,9 @@ concurrently/express/mysql
 
 ##디비연동
 ![image](https://user-images.githubusercontent.com/96407389/158965027-31b0b3ee-eda8-4a32-adfc-d9a29502bcee.png)
+
+
+#리액트 DB연동하기
+![image](https://user-images.githubusercontent.com/96407389/158976984-49fcc2c2-1b77-4e4c-9393-3111b5b205f7.png)
+
+디비가 왜 안올까
