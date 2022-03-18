@@ -14,3 +14,7 @@ concurrently/express/mysql
 #라우팅 완료
 
 ![image](https://user-images.githubusercontent.com/96407389/158960803-2ebc0cf6-393d-4acb-b3d0-21e290c411e7.png)
+
+
+##디비연동
+![image](https://user-images.githubusercontent.com/96407389/158965027-31b0b3ee-eda8-4a32-adfc-d9a29502bcee.png)
