@@ -9,9 +9,9 @@ app.get('/',(req, res) => {
     res.send('첫번째 페이지셋팅');
 })
 
-app.use('/get', getsend)
-app.use('/post', postsend)
-app.use('/sqlt', sqlsend)
+app.use('/getsend', getsend)
+app.use('/postsend', postsend)
+app.use('/sqlsend', sqlsend)
 
 app.listen(8080,() => {
     console.log('구동완료!')
