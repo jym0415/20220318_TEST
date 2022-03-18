@@ -9,3 +9,8 @@ concurrently/express/mysql
 
 
 ![image](https://user-images.githubusercontent.com/96407389/158959887-fd45e89e-9008-418e-a675-ff7a82178095.png)
+
+
+#라우팅 완료
+
+![image](https://user-images.githubusercontent.com/96407389/158960803-2ebc0cf6-393d-4acb-b3d0-21e290c411e7.png)
