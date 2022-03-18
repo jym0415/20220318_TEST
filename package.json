@@ -2,10 +2,10 @@
   "name": "220318test",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "yumi.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server" : "nodemon yumi.js"
+    "server" : "node yumi.js"
   },
   "repository": {
     "type": "git",
